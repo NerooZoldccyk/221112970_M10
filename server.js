@@ -1,5 +1,5 @@
-import express from "express";
-import cors from "cors";
+import express = require ("express");
+import cors = require ("cors");
  
 const app = express();
  
